@@ -22,7 +22,7 @@ This is a Streamlit-based web application that allows users to predict stock pri
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/stock-prediction-app.git
+    git clone https://github.com/aditya12696/stock-predict.git
     ```
    
 2. Navigate into the project directory:
